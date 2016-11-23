@@ -17,6 +17,9 @@ public class GitFirst {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Git First Project.");
+        System.out.println("Other code chanhe");
+        System.out.println("And rename Github file to Fithub");
+        System.out.println("Can be ad description Chek In 2");
     }
     
 }
